@@ -4,6 +4,11 @@
       "name": "TryNoter",
       "lastSeen": "2025-11-08T15:08:00.895Z",
       "isOnline": true
+    },
+    "Werline": {
+      "name": "Werline",
+      "lastSeen": "2025-11-09T13:07:42.356Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -31,8 +36,18 @@
           "postTitle": "[TN] - (10.0 - X) - RePoints - Упоминания поинтов!",
           "postPreview": "Теперь вы можете создать упоминание поинта. Пишете в любом чате команду /tag id Cooбщение - id берет..."
         }
+      },
+      {
+        "id": "mhrqamj6mwqd8eoz83r",
+        "from": "Werline",
+        "to": null,
+        "text": "Эуу, как же хорошо переключаться между серверами)",
+        "time": "2025-11-09T13:07:42.356Z",
+        "isGlobal": true,
+        "replyTo": null,
+        "tagMention": null
       }
     ]
   },
-  "lastUpdate": "2025-11-09T09:21:24.954Z"
+  "lastUpdate": "2025-11-09T13:07:42.379Z"
 }
