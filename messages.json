@@ -36,19 +36,9 @@
           "postTitle": "[TN] - (10.0 - X) - RePoints - Упоминания поинтов!",
           "postPreview": "Теперь вы можете создать упоминание поинта. Пишете в любом чате команду /tag id Cooбщение - id берет..."
         }
-      },
-      {
-        "id": "mhrqamj6mwqd8eoz83r",
-        "from": "Werline",
-        "to": null,
-        "text": "Эуу, как же хорошо переключаться между серверами)",
-        "time": "2025-11-09T13:07:42.356Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": null
       }
     ],
     "TryNoter_Werline": []
   },
-  "lastUpdate": "2025-11-09T13:11:28.676Z"
+  "lastUpdate": "2025-11-09T13:12:19.098Z"
 }
