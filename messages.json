@@ -1,7 +1,7 @@
 {
   "users": {
-    "TryNoter": {
-      "name": "TryNoter",
+    "WayPoint": {
+      "name": "WayPoint",
       "lastSeen": "2025-11-08T15:08:00.895Z",
       "isOnline": true
     },
@@ -15,30 +15,16 @@
     "global": [
       {
         "id": "mhqcdi2lanax4o2yaqv",
-        "from": "TryNoter",
+        "from": "WayPoint",
         "to": null,
-        "text": "Добро пожаловать в TryNoter! Это Repo Server - сервер TryNoter",
+        "text": "Добро пожаловать в WayPoint! Это Repo Server - сервер WayPoint",
         "time": "2025-11-08T13:50:15.741Z",
         "isGlobal": true,
         "replyTo": null,
         "tagMention": null
-      },
-      {
-        "id": "mhqf5g3mm8i0e7fuag",
-        "from": "TryNoter",
-        "to": null,
-        "text": "Теперь вы можете упоминать посты, подробнее в этом поинте",
-        "time": "2025-11-08T15:07:58.787Z",
-        "isGlobal": true,
-        "replyTo": null,
-        "tagMention": {
-          "postId": 100000,
-          "postTitle": "[TN] - (10.0 - X) - RePoints - Упоминания поинтов!",
-          "postPreview": "Теперь вы можете создать упоминание поинта. Пишете в любом чате команду /tag id Cooбщение - id берет..."
-        }
       }
     ],
-    "TryNoter_Werline": []
+    "WayPoint_Werline": []
   },
   "lastUpdate": "2025-11-09T13:12:19.098Z"
 }
